@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834072745691",
+    "firebase_url": "https://bigin-hr-a703d.firebaseio.com",
+    "project_id": "bigin-hr-a703d",
+    "storage_bucket": "bigin-hr-a703d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834072745691:android:c778ebc6ab5c9743",
+        "android_client_info": {
+          "package_name": "com.tuonganhnguyen.bigin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834072745691-pki4je0nfaeocpops9mcj7r62mhdhulv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbAXw-L2yaupZSVulHgNEyYAnvD0A8h0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834072745691-pki4je0nfaeocpops9mcj7r62mhdhulv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
